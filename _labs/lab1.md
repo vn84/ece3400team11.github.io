@@ -7,7 +7,7 @@ title:  "Lab1"
 
 content
 
-```C
+```cpp
 int potIPT = A0;
 int val = 0;
 
