@@ -65,14 +65,21 @@ Team Members: Daniel Weber, Adam Wojciechowski, Shivansh Gupta, Vignesh Nandakum
 3. Expected level of communication with other team members:
     - When a task is completed, the team member in charge of that task should notify the rest of the team and, if
       applicable, make their work available to the rest of the team.
-    - 
 4. Expected level of commitment to team decisions and tasks:
-
+    - If there is a decision that affects the entire team, everyone on the team should know about it and will
+      be allowed to have a say.
+    - Tasks will be evenly distributed between team members.
+    - Every team member is expected to contribute 6-10 hours per week to the project. This will most likely go
+      up near the end of the semester.
 ### Consequences for Failing to Follow Procedures and Fulfill Expectations
 
 1. Describe, as a group, you would handle infractions of any of the obligations of this team contract:
-
+    - For the first infraction, the team member will receive a warning from the team leader. The team member
+      in violation must acknowledge that they violated the team contract.
+    - For the second infraction, the team member will be publicly shamed on the website.
 2. Describe what your team will do if the infractions continue:
+    - If infractions continue (member misses 3 meetings without excuse, fails to complete their tasks, etc.),
+      the team member in violation will be removed from the website.
 
 ## Team Leadership
 
@@ -80,13 +87,13 @@ Every person on the team will have to take the role as a leader. The role of the
 
 (Split up the time according to the number of members, below is an example for a team of 4).
 
-Week 1-4 (Start-up, Lab 1, Milestone 1):
+Week 1-4 (Start-up, Lab 1, Milestone 1): Daniel
 
-Week 5-8 (Lab 2, Lab 3, Milestone 2):
+Week 5-8 (Lab 2, Lab 3, Milestone 2): Vignesh
 
-Week 9-12 (Lab 4, Milestone 3):
+Week 9-12 (Lab 4, Milestone 3): Adam
 
-Week 13-16 (Milestone 4, competition, final report):
+Week 13-16 (Milestone 4, competition, final report): Shivansh
 
 ---
 
