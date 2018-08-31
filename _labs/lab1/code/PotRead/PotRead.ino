@@ -1,13 +1,3 @@
----
-layout: subpage
-title:  "Lab1"
----
-
-# Header
-
-content
-
-```cpp
 int potIPT = A0;
 int val = 0;
 
@@ -23,4 +13,3 @@ void loop() {
   // wait half a second
   delay(500);
 }
-```
