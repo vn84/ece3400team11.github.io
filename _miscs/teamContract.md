@@ -73,6 +73,7 @@ Team Members: Daniel Weber, Adam Wojciechowski, Shivansh Gupta, Vignesh Nandakum
     - Tasks will be evenly distributed between team members.
     - Every team member is expected to contribute 6-10 hours per week to the project. This will most likely go
       up near the end of the semester.
+
 ### Consequences for Failing to Follow Procedures and Fulfill Expectations
 
 1. Describe, as a group, you would handle infractions of any of the obligations of this team contract:
@@ -100,10 +101,15 @@ Week 13-16 (Milestone 4, competition, final report): Daniel
 ---
 
 a) I participated in formulating the standards, roles, and procedures as stated in this contract.
+
 b) I understand that I am obligated to abide by these terms and conditions. 
+
 c) I understand that if I do not abide by these terms and conditions, I will suffer the consequences as stated in this contract.
 
 1) Adam Wojciechowski                              date: 8/31/2018
+
 2) Vignesh Nandakumar                              date: 8/31/2018 
+
 3) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ date _ _ _ _ _ _ _ _ _ 
+
 4) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ date _ _ _ _ _ _ _ _ _ 
