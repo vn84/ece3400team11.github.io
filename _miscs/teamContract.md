@@ -5,30 +5,31 @@ title:  "Team Contract"
 
 # TEAM CONTRACT
 
-ECE 3400, Semester # _ _ _ Team # 11
+ECE 3400, Semester #FA18 Team # 11
 
-Team Members: _ _ _
+Team Members: Daniel Weber, Adam Wojciechowski, Shivansh Gupta, Vignesh Nandakumar
 
 ## Team Procedures
 
-1. Day, time, and place for regular team meetings:
-  UH142, Friday 11.15-12.05pm, weekly. (We suggest allocating more time towards the end of the semester)
+1. Team meetings will be in Upson Hall 142 on Fridays from 11:15 - 12:05
 
-2. Preferred method of communication (e.g., e-mail, cell phone, wired phone, Blackboard Discussion Board, face-to-face, in a certain class) in order to inform each other of team meetings, announcement, updates, reminders, problems:
+2. Slack will be the primary mode of communication
 
-3. Decision-making policy (by consensus? by majority vote?):
+3. Decisions will be made by consensus
 
-4. Method for setting and following meeting agendas (Who will set each agenda? When? How will team members be notified/reminded? Who will be responsible for the team following the agenda during a team meeting? What will be done to keep the team on track during a meeting?):
+4. We will rotate meeting roles every week based on who the team leader is that week. We will have a record keeper, agenda setter, and a meeting coordinator. The agenda will be written and disseminated over Slack the night before the team meeting
 
-5. Method of record keeping (Who will be responsible for recording & disseminating minutes? How & when will the minutes be disseminated? Where will all agendas & minutes be kept?):
+5. The record keeper will rotate every meeting. They will type the minutes during the meeting and disseminate them via Slack afterwards
 
 ## Team Expectations
 
 ### Work Quality:
 
 1. Project standards (What is a realistic level of quality for team presentations, collaborative writing, individual research, preparation of drafts, peer reviews, etc.?):
+  Information quality will be prioritized over visual quality for team meeting presentations. Every document uploaded to the website will be reviewed by every member of the team to ensure high quality. If a member chooses to do any individual research, their findings should be reported to the rest of the group if it could be of use to others. 
 
 2. Strategies to fulfill these standards:
+    - 
 
 ### Team Participation:
 
