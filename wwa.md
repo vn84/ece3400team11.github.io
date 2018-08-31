@@ -2,32 +2,10 @@
 
 ## Daniel Weber
 
-Skills:
-
-- Arduino
-- Web design
-- Algorithms
+Junior, CS Major, ECE Minor.
 
 ## Adam Wojciechowski
 
-Skills:
-
-- a
-- b
-- c
-
 ## Shivy Gupta
 
-Skills:
-
-- a
-- b
-- c
-
 ## Vignesh Nandakumar
-
-Skills:
-
-- a
-- b
-- c
