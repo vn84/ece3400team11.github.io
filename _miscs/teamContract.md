@@ -63,6 +63,8 @@ Team Members: Daniel Weber, Adam Wojciechowski, Shivansh Gupta, Vignesh Nandakum
     - Every team member will be responsible for meeting their deadlines. This is important because other team
       members may be dependent on the completion of your tasks.
 3. Expected level of communication with other team members:
+    - If a question is addressed to the entire team that requires everyone to answer, team members should try to
+      answer within 4 hours.
     - When a task is completed, the team member in charge of that task should notify the rest of the team and, if
       applicable, make their work available to the rest of the team.
 4. Expected level of commitment to team decisions and tasks:
