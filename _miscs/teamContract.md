@@ -87,13 +87,13 @@ Every person on the team will have to take the role as a leader. The role of the
 
 (Split up the time according to the number of members, below is an example for a team of 4).
 
-Week 1-4 (Start-up, Lab 1, Milestone 1): Daniel
+Week 1-4 (Start-up, Lab 1, Milestone 1): Shivansh
 
 Week 5-8 (Lab 2, Lab 3, Milestone 2): Vignesh
 
 Week 9-12 (Lab 4, Milestone 3): Adam
 
-Week 13-16 (Milestone 4, competition, final report): Shivansh
+Week 13-16 (Milestone 4, competition, final report): Daniel
 
 ---
 
@@ -101,7 +101,7 @@ a) I participated in formulating the standards, roles, and procedures as stated 
 b) I understand that I am obligated to abide by these terms and conditions. 
 c) I understand that if I do not abide by these terms and conditions, I will suffer the consequences as stated in this contract.
 
-1) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ date _ _ _ _ _ _ _ _ _ 
+1) Adam Wojciechowski                              date: 8/31/2018
 2) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ date _ _ _ _ _ _ _ _ _ 
 3) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ date _ _ _ _ _ _ _ _ _ 
 4) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ date _ _ _ _ _ _ _ _ _ 
