@@ -112,4 +112,4 @@ c) I understand that if I do not abide by these terms and conditions, I will suf
 
 3) Shivansh Gupta                                  date: 8/31/2018 
 
-4) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ date _ _ _ _ _ _ _ _ _ 
+4) Daniel Weber                                    date: 8/31/2018
