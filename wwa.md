@@ -10,4 +10,6 @@ Junior, ECE and CS Double Major, Business Minor.
 
 ## Shivy Gupta
 
+Junior, ECE Major, CS Minor.
+
 ## Vignesh Nandakumar
