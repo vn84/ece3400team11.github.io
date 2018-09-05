@@ -88,8 +88,6 @@ Team Members: Daniel Weber, Adam Wojciechowski, Shivansh Gupta, Vignesh Nandakum
 
 Every person on the team will have to take the role as a leader. The role of the leader will be to organize meetings and make sure that everything is submitted in a timely manner. Please note here who will be responsible when:
 
-(Split up the time according to the number of members, below is an example for a team of 4).
-
 Week 1-4 (Start-up, Lab 1, Milestone 1): Shivansh
 
 Week 5-8 (Lab 2, Lab 3, Milestone 2): Vignesh
