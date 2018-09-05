@@ -4,14 +4,13 @@ $text_width: 500px;
 
 body {
   background-color: #fafafa;
-  padding: 50px;
+  padding: 26px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #606060;
+  color: #404040;
   font-weight:400;
 }
 
 header {
-  color: #222222;
   text-align: center;
 }
 
@@ -33,6 +32,7 @@ a:hover {
 .divider {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
 }
 
 .divider-section {
@@ -40,9 +40,9 @@ a:hover {
   border: 1px solid lightgray;
   border-radius: 2px;
   text-align: left;
-  background-color: #fff;
+  background-color: rgba(255,255,255,0.5);
   padding: 4px 12px;
-  margin: 0 8px; 
+  margin: 0 8px 20px; 
 }
 
 img, iframe {
