@@ -43,8 +43,6 @@ We then used the following code to read the analog value of the of the pin and o
 {% include_relative code/PotRead/PotRead.ino %}
 ```
 
-Demo:
-
 ## Task 4 - Outputting an Analog Signal:
 
 Combining the setups of Tasks 2 & 3, we designed the following circuit which allowed us to use the analog signal input from the potentiometer to control the brightness of the external LED:
