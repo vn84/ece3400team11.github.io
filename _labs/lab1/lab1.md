@@ -5,7 +5,7 @@ title:  "Lab1"
 
 # Lab 1
 
-In lab 1, we had to construct several simple circuits which integrated with an arduino microcontroller. We then had to program the arduino to perform some interesting task.
+In Lab 1, we had to construct several simple circuits using multiple external components and the Arduino Uno microcontroller. With the Arduino microcontroller and the Arduino IDE, we constructed several simple Arduino programs, which culminated with us building our first robot and having it drive autonomously in a figure eight pattern.
 
 ## Task 1 - Blinking the Internal LED:
 The first task was to use the arduino to blink an internal LED. The on-chip LED is hard-wired to pin 13 which we can control using the following code:
