@@ -15,6 +15,7 @@ The first task was to use the arduino to blink an internal LED. The on-chip LED 
 ```
 
 Demo:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FUZXOQbeATo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Task 2 - Blinking an External LED:
 Our next task was to modify the code for task one to blink an external LED. We did this by connecting an external LED to a digital pin through a resistor as shown in the diagram below and modified the pin number in the code as follows:
@@ -28,6 +29,7 @@ Our next task was to modify the code for task one to blink an external LED. We d
 The resistor was used to prevent sourcing too much current through the pin in case of a short circuit, which would burn out both the Arduino and the external LED.
 
 Demo:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RYbxh-uWJU4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Task 3 - Reading an Analog Input:
 
