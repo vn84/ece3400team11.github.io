@@ -69,5 +69,40 @@ Our final task before assembling our robot was to use the PWM signal we generate
 Demo:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/89UeEeVpefA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Task 6: Assemble Robot
+## Task 6: Assembling the Robot
 
+The parts we used to assemble our robot were:
+- 2 servos
+- 2 servo mounts
+- 2 wheels
+- 1 baseplate
+- 11 screws
+- 11 nuts
+- 1 ball bearing wheel
+- 1 arduino
+- 1 rechargeable battery pack
+
+The first thing we did was mount the servos to the servo mounts. As there was a shortage of screws and nuts in the lab, we only used two screws per servo instead of the four there are room for. The robot built in this lab will not be the same as the final robot, so we just needed enough screws to maintain structural integrity.
+
+The servos were then mounted to the baseplate, using two screws per mount.
+
+The wheels were then mounted to the servos. As one of our servos did not have a screw, we used wheels that fit snug on the servos. This is an issue that we will need to fix when designing later robots.
+
+Next, we mounted the Arduino on top of the baseplate using two screws.
+
+Finally, we attached the ball bearing wheel to the front of the robot.
+
+## Task 7 - Driving the Robot Autonomously:
+
+Once the robot was built, we wrote following code for the robot to autonomously drive in a figure eight pattern:
+
+```cpp
+{% include_relative code/Robot/Robot.ino %}
+```
+
+The first time we tested the robot, it became apparent that one of our servos was spinning much faster than the other; so much faster that the robot was practically impossible to control.
+
+We performed a series of tasks in order to identify the problem. First, we swapped the pins for our two servos. This would check to see if the issue was in the software rather than in the hardware. After switching the pins had no effect, we decided to try a third servo. The third servo was much closer to the speed we were expecting, so we switched out the super fast servo. After this switch, we were able to get out robot to drive in straight lines and in a proper figure eight pattern.
+
+Demo:
+<iframe width="992" height="558" src="https://www.youtube.com/embed/rcGF211rwNE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
