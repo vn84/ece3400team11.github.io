@@ -106,3 +106,7 @@ We performed a series of tasks in order to identify the problem. First, we swapp
 
 Demo:
 <iframe width="992" height="558" src="https://www.youtube.com/embed/GhzqjIfTxn0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Bloopers :sweat_smile:
+
+<iframe width="992" height="558" src="https://www.youtube.com/embed/d9uHi5ukqcA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
